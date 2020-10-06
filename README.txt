@@ -1,4 +1,4 @@
-The file attack.py consists of our rider's attack proposed in Section 2.2 and Algorithm 1.
+The file attack.py consists of the rider's location harvesting attack.
 
 The code (written in Python) uses Google Maps API and the UTM library for python.
 Due to reasons of confidentiality, we are unable to provide our API key along with the code.
